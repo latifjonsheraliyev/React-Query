@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.todo{
+  background: linear-gradient(135deg, #000000, #333333, #000000);
+  
+}
+.text-todo{
+  text-shadow: 0 0 20px #0000;
+}
+
+
+
+
+
